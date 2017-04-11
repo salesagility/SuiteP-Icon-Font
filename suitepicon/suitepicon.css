@@ -1,49 +1,52 @@
 @font-face {
     font-family: "suitepicon";
-    src: url("./suitepicon.eot?c8edf0dba3c0ab5f34f4853ec72abfa9?#iefix") format("embedded-opentype"),
-url("./suitepicon.woff?c8edf0dba3c0ab5f34f4853ec72abfa9") format("woff"),
-url("./suitepicon.ttf?c8edf0dba3c0ab5f34f4853ec72abfa9") format("truetype"),
-url("./suitepicon.svg?c8edf0dba3c0ab5f34f4853ec72abfa9#suitepicon") format("svg");
+    src: url("./suitepicon.eot?e814d358c0883fc3c59f6c5a84c91d6d?#iefix") format("embedded-opentype"),
+url("./suitepicon.woff?e814d358c0883fc3c59f6c5a84c91d6d") format("woff"),
+url("./suitepicon.ttf?e814d358c0883fc3c59f6c5a84c91d6d") format("truetype"),
+url("./suitepicon.svg?e814d358c0883fc3c59f6c5a84c91d6d#suitepicon") format("svg");
 }
 
-.suitepicon {
+i {
     line-height: 1;
 }
 
-.suitepicon:before {
+i:before {
     font-family: suitepicon !important;
     font-style: normal;
     font-weight: normal !important;
     vertical-align: top;
 }
 
-.suitepicon-module-accounts:before {
+.icons-module-accounts:before {
     content: "\f101";
 }
-.suitepicon-module-aclroles:before {
+.icons-module-aclroles:before {
     content: "\f102";
 }
-.suitepicon-module-activities:before {
+.icons-module-activities:before {
     content: "\f103";
 }
-.suitepicon-module-am_tasktemplates:before {
+.icons-module-am_tasktemplates:before {
     content: "\f104";
 }
-.suitepicon-module-aok_knowledge_base_categories:before {
+.icons-module-aok_knowledge_base_categories:before {
     content: "\f105";
 }
-.suitepicon-module-aos_contracts-signature:before {
+.icons-module-aok_knowledgebase:before {
     content: "\f106";
 }
-.suitepicon-module-aos_contracts:before {
+.icons-module-aos_contracts-signature:before {
     content: "\f107";
 }
-.suitepicon-module-calendar:before {
+.icons-module-aos_contracts:before {
     content: "\f108";
 }
-.suitepicon-module-default:before {
+.icons-module-calendar:before {
     content: "\f109";
 }
-.suitepicon-module-documents:before {
+.icons-module-default:before {
     content: "\f10a";
+}
+.icons-module-documents:before {
+    content: "\f10b";
 }
