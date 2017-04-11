@@ -1,7 +1,8 @@
 # Requirements
-
+<pre>
 sudo npm install -g svgo
 sudo npm install -g icon-font-generator
+</pre>
 
 # Icon creation process
 Create a build folder
@@ -15,7 +16,7 @@ Add new uncleaned icons to the build folder
 Use inkscape
 * remove any masks and clipping
 * resize the icons to 1024x1024
-* use svg o 
+* use svgo  to compress svgs
 
 Use svgo to clean / compress the svgs:
 
