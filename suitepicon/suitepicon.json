@@ -2,9 +2,11 @@
     "module-accounts": "\\f101",
     "module-aclroles": "\\f102",
     "module-activities": "\\f103",
-    "module-aos_contracts-signature": "\\f104",
-    "module-aos_contracts": "\\f105",
-    "module-calendar": "\\f106",
-    "module-default": "\\f107",
-    "module-documents": "\\f108"
+    "module-am_tasktemplates": "\\f104",
+    "module-aok_knowledge_base_categories": "\\f105",
+    "module-aos_contracts-signature": "\\f106",
+    "module-aos_contracts": "\\f107",
+    "module-calendar": "\\f108",
+    "module-default": "\\f109",
+    "module-documents": "\\f10a"
 }
