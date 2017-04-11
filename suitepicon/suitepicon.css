@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "suitepicon";
+    src: url("./suitepicon.eot?c23135768b32b403bdac5db1976d616a?#iefix") format("embedded-opentype"),
+url("./suitepicon.woff?c23135768b32b403bdac5db1976d616a") format("woff"),
+url("./suitepicon.ttf?c23135768b32b403bdac5db1976d616a") format("truetype"),
+url("./suitepicon.svg?c23135768b32b403bdac5db1976d616a#suitepicon") format("svg");
+}
+
+.suitepicon {
+    line-height: 1;
+}
+
+.suiteicon:before {
+    font-family: suitepicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    vertical-align: top;
+}
+
+.icons-module-documents:before {
+    content: "\f101";
+}
