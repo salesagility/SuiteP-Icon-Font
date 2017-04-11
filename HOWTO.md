@@ -25,5 +25,5 @@ svgo -f /tmp/suitepicon/ -o src
 # Build Icon set
 
 <pre>
-icon-font-generator src/*svg -o suitepicon --mono --center -p suitepicon --csspath suitepicon/suiteicon-glyphs.scss --name suitepicon 
+icon-font-generator src/*svg -o suitepicon --mono --center -p suitepicon --csspath suitepicon/suitepicon-glyphs.scss --name suitepicon 
 </pre>
