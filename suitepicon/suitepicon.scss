@@ -18,3 +18,33 @@
     font-weight: normal !important;
     vertical-align: top;
 }
+
+//
+// Reused icons
+.module-aor_processed {
+    @extend .module-process;
+}
+
+.module-process_audit {
+    @extend .module-process;
+}
+
+.module-aos_products {
+    @extend .module-products;
+}
+
+.module-aos_products_quotes {
+    @extend .module-products;
+}
+
+.module-attachment {
+    @extend .module-documents;
+}
+
+.module-campaignlog {
+    @extend .module-campaigns;
+}
+
+.module-jjwg_areas {
+    @extend module-jjwg_areas;
+}

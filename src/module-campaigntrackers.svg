@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="module-campaigntrackers.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>acc_tracker_url</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.34766083"
+     inkscape:cx="-399.87856"
+     inkscape:cy="529.90153"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">acc_tracker_url</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     d="m 962.40616,18.320245 c -23.44989,-24.4269908 -61.74802,-24.4269908 -85.19795,0 L 755.1074,145.61528 C 705.05875,110.92148 647.64995,93.734584 589.998,93.734584 c -76.74982,0 -154.49806,30.520406 -212.09881,91.561226 L 197.89037,372.80499 C 95.245801,479.63305 82.59923,644.78193 159.69466,765.98355 L 37.59383,893.33194 c -23.449912,24.42695 -23.449912,63.96082 0,88.38782 C 49.293186,993.9066 64.640593,1000 80.000797,1000 95.3482,1000 110.69561,993.9066 122.39496,981.66644 L 244.49579,854.37142 c 50.04867,34.69377 107.80306,51.88066 165.45501,51.88066 75.75143,0 153.49963,-30.52039 212.09881,-91.56122 L 801.70002,627.18168 C 904.40861,520.35363 917.05516,355.20475 839.95975,234.00312 L 962.40616,106.70809 c 23.44993,-24.426994 23.44993,-64.014186 0,-88.387845 l 0,0 z M 769.64841,406.24543 c 0,50.05401 -18.73947,97.18794 -52.6983,132.54843 L 537.2997,726.303 c -34.09966,35.41381 -80.20589,54.94743 -127.2465,54.94743 -27.20036,0 -53.21029,-6.93343 -77.10821,-18.80027 l 88.55158,-93.28124 c 23.44988,-24.44031 23.44988,-63.96086 0,-88.38786 -22.4515,-24.42695 -60.40404,-24.42695 -83.85393,0 l -89.55,93.28128 c -11.49455,-24.80035 -18.04824,-51.88071 -18.04824,-80.32109 0,-50.05401 18.75225,-97.18795 52.7495,-132.54843 L 461.80427,273.68365 c 33.99727,-35.4138 80.19309,-54.9474 128.24493,-54.9474 27.20036,0 53.10789,6.93343 77.00581,18.80025 l -91.30362,95.21463 c -23.44989,24.42699 -23.44989,63.96082 0,88.38782 11.69936,12.18684 27.04676,18.33359 42.3942,18.33359 15.25779,0 30.60519,-6.09343 42.30455,-18.33359 l 91.20123,-95.21461 c 11.45612,24.74699 17.99704,51.88071 17.99704,80.32109 l 0,0 z"
+     id="path12"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="module-opportunities.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>acc_opportunities</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="0.513"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">acc_opportunities</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <polygon
+       id="path-1"
+       points="0.020339665,1.5772613 0.020339665,1.5772613 5.3949989,1.5772613 5.3949989,0.012407789 0.020339665,0.012407789 " />
+    <polygon
+       id="path-3"
+       points="15.962816,19.592245 15.962816,0.031575895 2.2346369e-05,0.031575895 2.2346369e-05,19.592245 " />
+    <mask
+       fill="white"
+       id="mask-4">
+      <use
+         id="use24"
+         xlink:href="#path-3"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       fill="white"
+       id="mask-2">
+      <use
+         id="use18"
+         xlink:href="#path-1"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+  </defs>
+  <g
+     id="g4183"
+     transform="matrix(38.342279,0,0,38.342279,-74.422175,-37270.376)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="Fill-1"
+       d="m 12.294083,996.55985 c 0.519061,0.93212 1.527642,1.56486 2.687329,1.56486 1.159687,0 2.168045,-0.63274 2.68733,-1.56486 l -5.374659,0 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+       inkscape:connector-curvature="0"
+       id="Fill-4"
+       d="m 17.907911,991.60451 c 0.532111,0 1.064223,-0.52163 1.064223,-1.04327 0,-4.43372 3.990704,-5.03593 3.990704,-10.69313 0,-4.32134 -3.573542,-7.82427 -7.981408,-7.82427 -4.408134,0 -7.9814077,3.50293 -7.9814077,7.82427 0,5.6572 3.9907037,6.25941 3.9907037,10.69313 0,0.52164 0.532112,1.04327 1.064179,1.04327 l 5.853006,0 z" />
+    <path
+       d="m 18.440031,993.03895 c 0,0.35861 -0.299307,0.65202 -0.665117,0.65202 l -5.586994,0 c -0.36581,0 -0.665073,-0.29341 -0.665073,-0.65202 0,-0.35865 0.299262,-0.65202 0.665073,-0.65202 l 5.586994,0 c 0.36581,0 0.665117,0.29337 0.665117,0.65202"
+       id="Fill-7"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       d="m 18.440031,995.12541 c 0,0.35865 -0.299307,0.65202 -0.665117,0.65202 l -5.586994,0 c -0.36581,0 -0.665073,-0.29337 -0.665073,-0.65202 0,-0.35861 0.299262,-0.65202 0.665073,-0.65202 l 5.586994,0 c 0.36581,0 0.665117,0.29341 0.665117,0.65202"
+       id="Fill-9"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
+  </g>
+</svg>

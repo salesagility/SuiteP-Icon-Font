@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="module-tasks.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>acc_tasks</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.513"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">acc_tasks</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="Fill-1"
+     d="m 760.87522,504.21026 c 16.02986,94.44569 -9.54085,194.86178 -79.97142,269.7961 C 561.40597,901.14876 360.81076,907.22292 233.78689,787.84359 106.70376,668.39019 100.45183,467.86906 219.96449,340.78592 290.43948,265.77754 389.06298,234.07342 484.30867,244.25133 L 585.70257,136.38326 C 428.0709,86.041868 248.43893,125.73127 127.82996,254.0885 -39.416662,432.04638 -30.794326,712.77595 147.16354,880.02255 325.04733,1047.2692 605.85098,1038.5876 773.09762,860.70379 893.75101,732.34657 922.22546,550.56641 862.26912,396.40147 l -101.3939,107.80879 z" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="Fill-2"
+     d="m 967.54459,24.633662 c -32.87451,-32.8745017 -86.11966,-32.8152417 -118.99417,0 l -39.63013,39.644961 118.97934,118.979327 39.64496,-39.64497 c 32.80041,-32.85968 32.85971,-86.164076 0,-118.979318 l 0,0 z" />
+  <polygon
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     points="9.0241159,18.355826 13.367362,17.270319 24.228928,6.4087536 20.968348,3.1514203 10.108406,14.01258 "
+     id="Fill-3"
+     transform="matrix(36.508411,0,0,36.508411,3.695011,-11.129766)" />
+</svg>

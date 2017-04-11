@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="module-prospectlists.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>acc_target_list</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.513"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">acc_target_list</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="Fill-1"
+     d="M 499.30372,-2.524712e-6 C 223.2,-2.524712e-6 -2.524712e-6,224.5926 -2.524712e-6,500.6963 -2.524712e-6,776.85927 223.2,1000 499.30372,1000 776.85927,1000 1000,776.85927 1000,500.6963 1000,224.5926 776.85927,-2.524712e-6 499.30372,-2.524712e-6 l 0,0 z m 0,834.029642524712 c -183.09631,0 -333.33335,-150.17777 -333.33335,-333.27409 0,-184.54814 150.23704,-333.33333 333.33335,-333.33333 184.54815,0 333.33334,148.78519 333.33334,333.33333 0,183.09632 -148.78519,333.27409 -333.33334,333.27409 l 0,0 z" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="Fill-2"
+     d="m 499.30372,346.23704 c -84.42962,0 -154.51853,68.6963 -154.51853,154.51851 0,84.37037 70.08891,154.45927 154.51853,154.45927 85.8222,0 154.45923,-70.0889 154.45923,-154.45927 0,-85.88145 -68.63703,-154.51851 -154.45923,-154.51851 l 0,0 z" />
+</svg>
