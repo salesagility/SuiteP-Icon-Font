@@ -2,5 +2,6 @@
     "module-aos_contracts-signature": "\\f101",
     "module-aos_contracts": "\\f102",
     "module-calendar": "\\f103",
-    "module-documents": "\\f104"
+    "module-default": "\\f104",
+    "module-documents": "\\f105"
 }

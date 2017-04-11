@@ -1,31 +1,34 @@
 @font-face {
     font-family: "suitepicon";
-    src: url("./suitepicon.eot?2d28352e45fa03be609fd45cde7b6d29?#iefix") format("embedded-opentype"),
-url("./suitepicon.woff?2d28352e45fa03be609fd45cde7b6d29") format("woff"),
-url("./suitepicon.ttf?2d28352e45fa03be609fd45cde7b6d29") format("truetype"),
-url("./suitepicon.svg?2d28352e45fa03be609fd45cde7b6d29#suitepicon") format("svg");
+    src: url("./suitepicon.eot?155dc7217a139a7dd2baf7777b7a09b2?#iefix") format("embedded-opentype"),
+url("./suitepicon.woff?155dc7217a139a7dd2baf7777b7a09b2") format("woff"),
+url("./suitepicon.ttf?155dc7217a139a7dd2baf7777b7a09b2") format("truetype"),
+url("./suitepicon.svg?155dc7217a139a7dd2baf7777b7a09b2#suitepicon") format("svg");
 }
 
-.suitepicon {
+i {
     line-height: 1;
 }
 
-.suitepicon:before {
+i:before {
     font-family: suitepicon !important;
     font-style: normal;
     font-weight: normal !important;
     vertical-align: top;
 }
 
-.suitepicon-module-aos_contracts-signature:before {
+.icons-module-aos_contracts-signature:before {
     content: "\f101";
 }
-.suitepicon-module-aos_contracts:before {
+.icons-module-aos_contracts:before {
     content: "\f102";
 }
-.suitepicon-module-calendar:before {
+.icons-module-calendar:before {
     content: "\f103";
 }
-.suitepicon-module-documents:before {
+.icons-module-default:before {
     content: "\f104";
+}
+.icons-module-documents:before {
+    content: "\f105";
 }
