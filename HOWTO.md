@@ -1,7 +1,8 @@
 # Requirements
-
+<pre>
 sudo npm install -g svgo
 sudo npm install -g icon-font-generator
+</pre>
 
 # Icon creation process
 Create a build folder
