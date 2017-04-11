@@ -1,16 +1,16 @@
 @font-face {
     font-family: "suitepicon";
-    src: url("./suitepicon.eot?e814d358c0883fc3c59f6c5a84c91d6d?#iefix") format("embedded-opentype"),
-url("./suitepicon.woff?e814d358c0883fc3c59f6c5a84c91d6d") format("woff"),
-url("./suitepicon.ttf?e814d358c0883fc3c59f6c5a84c91d6d") format("truetype"),
-url("./suitepicon.svg?e814d358c0883fc3c59f6c5a84c91d6d#suitepicon") format("svg");
+    src: url("./suitepicon.eot?ac6aaae1c72dbf59709a0a029d55cc99?#iefix") format("embedded-opentype"),
+url("./suitepicon.woff?ac6aaae1c72dbf59709a0a029d55cc99") format("woff"),
+url("./suitepicon.ttf?ac6aaae1c72dbf59709a0a029d55cc99") format("truetype"),
+url("./suitepicon.svg?ac6aaae1c72dbf59709a0a029d55cc99#suitepicon") format("svg");
 }
 
-.suitepicon {
+i {
     line-height: 1;
 }
 
-.suitepicon:before {
+i:before {
     font-family: suitepicon !important;
     font-style: normal;
     font-weight: normal !important;

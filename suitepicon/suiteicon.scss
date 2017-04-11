@@ -1,0 +1,12 @@
+@import "suiteicon-glyphs";
+
+.suitepicon {
+    line-height: 1;
+}
+
+.suitepicon:before {
+    font-family: suitepicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    vertical-align: top;
+}
