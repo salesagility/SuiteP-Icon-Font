@@ -13,16 +13,16 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="module-leads.svg">
+   sodipodi:docname="action-add.svg">
   <metadata
-     id="metadata15">
+     id="metadata24">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>acc_leads</dc:title>
+        <dc:title>sb_add</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,25 +37,24 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="703"
-     id="namedview13"
+     id="namedview22"
      showgrid="false"
      inkscape:zoom="0.513"
-     inkscape:cx="48.050682"
-     inkscape:cy="523.39181"
+     inkscape:cx="500"
+     inkscape:cy="500"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title4">acc_leads</title>
+     id="title4">sb_add</title>
   <desc
      id="desc6">Created with Sketch.</desc>
   <defs
      id="defs8" />
-  <polygon
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00000019;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     id="Star-5"
-     points="10.680269,19.357477 5.2930425,18.909123 8.7853527,14.782745 5.2930425,10.656367 10.680269,10.208014 11.128622,4.8207876 15.255,8.3130978 19.381378,4.8207876 19.829732,10.208014 25.216958,10.656367 21.724647,14.782745 25.216958,18.909123 19.829732,19.357477 19.381378,24.744703 15.255,21.252393 11.128622,24.744703 "
-     transform="matrix(41.738996,0,0,41.738996,-136.7284,-117.01695)" />
+  <path
+     id="+"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     d="m 727.91937,436.21062 0,100.25806 -167.09678,0 0,179.74194 -113.80645,0 0,-179.74194 -166.19355,0 0,-100.25806 166.19355,0 0,-178.83872 113.80645,0 0,178.83872 z M 500.5,-0.5 C 367.89795,-0.49999918 240.71107,52.183457 146.94727,145.94727 53.183457,239.71107 0.50000137,366.89795 0.5,499.5 0.50000274,632.10205 53.183457,759.29088 146.94727,853.05469 240.71107,946.8185 367.89795,999.5 500.5,999.5 633.10205,999.5 760.28893,946.81849 854.05273,853.05469 947.81654,759.29088 1000.5,632.10205 1000.5,499.5 1000.5,366.89795 947.81654,239.71107 854.05273,145.94727 760.28893,52.183457 633.10205,-0.49999726 500.5,-0.5 Z m 0,32.259766 c 124.05907,2e-6 243.02113,49.275035 330.74414,136.998044 87.72301,87.72301 136.99805,206.68312 136.99805,330.74219 -1e-5,124.05907 -49.27504,243.02113 -136.99805,330.74414 C 743.52113,917.96715 624.55907,967.24218 500.5,967.24219 376.44093,967.24219 257.47887,917.96715 169.75586,830.24414 82.032848,742.52113 32.757815,623.55907 32.757812,499.5 32.757814,375.44093 82.032848,256.48082 169.75586,168.75781 257.47887,81.034801 376.44093,31.759766 500.5,31.759766 Z" />
 </svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="action-subtract.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.513"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">sb_add</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>sb_add</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <g
+     id="g4143"
+     style="fill:#000000"
+     transform="matrix(32.258065,0,0,32.258065,-15.629032,-16.62808)">
+    <g
+       style="fill:#000000;stroke:none"
+       id="Page-1"
+       transform="translate(0,-80)">
+      <g
+         id="sb_add"
+         style="fill:#000000">
+        <g
+           id="g3001"
+           transform="translate(0,80)"
+           style="fill:#000000">
+          <path
+             id="polygon20"
+             transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,15.756547,-6.8276697)"
+             style="fill:#000000"
+             d="m 9.19,14.038 5.152,0 0,-5.544 3.528,0 0,5.544 5.18,0 0,3.108 -5.18,0 0,5.572 -3.528,0 0,-5.572 -5.152,0 z M 5.3535922,5.0092977 c -6.04893881,6.0489383 -6.04893881,15.8713713 0,21.9203103 6.0489388,6.048939 15.8713718,6.048939 21.9203098,0 6.048939,-6.048939 6.048939,-15.871372 0,-21.9203103 -6.048938,-6.0489388 -15.871371,-6.0489386 -21.9203098,0 z M 6.060699,5.7164045 c 5.66679,-5.66678986 14.839307,-5.66679 20.506097,0 5.666789,5.6667895 5.666789,14.8393065 0,20.5060965 -5.66679,5.66679 -14.839307,5.66679 -20.506097,0 -5.66678996,-5.66679 -5.66678996,-14.839307 0,-20.5060965 z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

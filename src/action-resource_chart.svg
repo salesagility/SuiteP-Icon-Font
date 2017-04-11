@@ -13,16 +13,16 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="module-leads.svg">
+   sodipodi:docname="action-resource_chart.svg">
   <metadata
-     id="metadata15">
+     id="metadata25">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>acc_leads</dc:title>
+        <dc:title>sb_resource_chart</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,25 +37,25 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="703"
-     id="namedview13"
+     id="namedview23"
      showgrid="false"
      inkscape:zoom="0.513"
-     inkscape:cx="48.050682"
-     inkscape:cy="523.39181"
+     inkscape:cx="500"
+     inkscape:cy="500"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title4">acc_leads</title>
+     id="title4">sb_resource_chart</title>
   <desc
      id="desc6">Created with Sketch.</desc>
   <defs
      id="defs8" />
-  <polygon
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00000019;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     id="Star-5"
-     points="10.680269,19.357477 5.2930425,18.909123 8.7853527,14.782745 5.2930425,10.656367 10.680269,10.208014 11.128622,4.8207876 15.255,8.3130978 19.381378,4.8207876 19.829732,10.208014 25.216958,10.656367 21.724647,14.782745 25.216958,18.909123 19.829732,19.357477 19.381378,24.744703 15.255,21.252393 11.128622,24.744703 "
-     transform="matrix(41.738996,0,0,41.738996,-136.7284,-117.01695)" />
+  <path
+     id="polygon17"
+     transform="matrix(32.258065,0,0,32.258065,-15.629032,-2597.2742)"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     d="M 8,102 25.02624,102 21.33276,95.49 18.3404,96.9502 15.21112,91.07468 11.7702,93.24132 8,87.615 Z m 8,-21.500001 c -4.110664,0 -8.053457,1.633187 -10.9601347,4.539865 -2.9066782,2.906678 -4.53986532,6.849471 -4.53986532,10.960135 0,4.110661 1.63318712,8.053461 4.53986532,10.960131 C 7.946543,109.86681 11.889336,111.5 16,111.5 c 4.110663,0 8.053456,-1.63319 10.960134,-4.53987 C 29.866812,104.05346 31.5,100.11066 31.5,95.999999 31.5,91.889335 29.866812,87.946542 26.960134,85.039864 24.053456,82.133186 20.110663,80.499999 16,80.499999 Z m 0,0.999992 c 3.845831,0 7.533655,1.527526 10.253068,4.24694 2.719413,2.719413 4.246939,6.407237 4.246939,10.253068 0,3.845831 -1.527526,7.533651 -4.246939,10.253071 -2.719413,2.71941 -6.407237,4.24694 -10.253068,4.24694 -3.845831,0 -7.5336552,-1.52753 -10.2530684,-4.24694 -2.7194134,-2.71942 -4.2469395,-6.40724 -4.2469395,-10.253071 0,-3.845831 1.5275261,-7.533655 4.2469395,-10.253068 C 8.4663448,83.027517 12.154169,81.499991 16,81.499991 Z" />
 </svg>
