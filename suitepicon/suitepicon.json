@@ -1,8 +1,9 @@
 {
     "module-accounts": "\\f101",
-    "module-aos_contracts-signature": "\\f102",
-    "module-aos_contracts": "\\f103",
-    "module-calendar": "\\f104",
-    "module-default": "\\f105",
-    "module-documents": "\\f106"
+    "module-aclroles": "\\f102",
+    "module-aos_contracts-signature": "\\f103",
+    "module-aos_contracts": "\\f104",
+    "module-calendar": "\\f105",
+    "module-default": "\\f106",
+    "module-documents": "\\f107"
 }
