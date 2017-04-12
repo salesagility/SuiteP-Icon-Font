@@ -152,5 +152,8 @@
     "module-spots": "\\f197",
     "module-targets": "\\f198",
     "module-tasks": "\\f199",
-    "module-users": "\\f19a"
+    "module-users": "\\f19a",
+    "template-company": "\\f19b",
+    "template-file": "\\f19c",
+    "template-issue": "\\f19d"
 }
