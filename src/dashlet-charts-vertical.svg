@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dashlet-charts-vertical.svg">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>outcome_month_dark</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="0.513"
+     inkscape:cx="512"
+     inkscape:cy="512"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">outcome_month_dark</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <path
+     id="Fill-5"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     d="m 977.40879,896.50048 -118.31202,0 c -8.45083,0 -14.10278,-7.03113 -14.10278,-14.10282 l 0,-605.66275 c 0,-8.45085 7.03113,-14.10278 14.10278,-14.10278 l 118.31202,0 c 8.45083,0 14.10278,7.01759 14.10278,14.10278 l 0,605.66275 c 1.37917,7.07169 -5.65195,14.10282 -14.10278,14.10282 l 0,0 z m -238.04375,0 -118.31198,0 c -8.45087,0 -14.10281,-7.03113 -14.10281,-14.10282 l 0,-356.31516 c 0,-8.45083 7.01759,-14.10278 14.10281,-14.10278 l 118.31198,0 c 8.45087,0 14.08929,7.03113 14.08929,14.10278 l 0,356.35573 c 0,7.03112 -7.0176,14.06225 -14.08929,14.06225 l 0,0 z m -239.43642,0 -118.312,0 c -8.43734,0 -14.08927,-7.03113 -14.08927,-14.10282 l 0,-754.93868 c 0,-8.43733 7.01759,-14.08926 14.08927,-14.08926 l 118.312,0 c 8.46437,0 14.10278,7.01759 14.10278,14.08926 l 0,754.93868 c 0,7.07169 -7.07169,14.10282 -14.10278,14.10282 l 0,0 z m -239.42292,0 -118.31199,0 c -8.45086,0 -14.10279,-7.03113 -14.10279,-14.10282 l 0,-202.82056 c 0,-8.45083 7.03111,-14.10278 14.10279,-14.10278 l 118.31199,0 c 8.45086,0 14.10279,7.0176 14.10279,14.10278 l 0,201.38732 c -0.0406,8.50493 -5.65193,15.53606 -14.10279,15.53606 l 0,0 z M 992.89074,1012 32.332569,1012 c -11.249781,0 -19.700637,-8.4508 -19.700637,-19.70062 l 0,-960.598744 c 0,-11.249781 8.450856,-19.700637 19.700637,-19.700637 11.249781,0 19.714159,8.450856 19.714159,19.700637 l 0,929.594224 c 0,5.65195 4.218667,9.88415 9.870601,9.88415 l 929.594241,0 c 11.24983,0 19.70063,8.45083 19.70063,19.70062 1.4197,12.66957 -7.0311,21.12037 -18.32146,21.12037 l 0,0 z" />
+</svg>
