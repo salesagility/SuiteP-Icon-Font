@@ -1,61 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="module-campaigns.svg">
-  <metadata
-     id="metadata15">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>acc_campaigns</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="0.513"
-     inkscape:cx="500"
-     inkscape:cy="500"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title4">acc_campaigns</title>
-  <desc
-     id="desc6">Created with Sketch.</desc>
-  <defs
-     id="defs8" />
-  <path
-     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
-     d="m 588.6208,774.54601 c 0,4.13083 0,9.34941 -9.4875,9.47404 l -277.06434,0 c -4.11166,0 -9.29379,0 -9.57954,-9.47404 l 0,-122.63534 296.11984,64.274 0,58.36134 0.0115,0 z M 990.66213,161.32337 c -5.89158,-4.73894 -13.62041,-6.55321 -21.1095,-4.89812 l -879.886637,191.22442 0,-8.47104 c 0,-13.84671 -11.211604,-25.05829 -25.083233,-25.05829 l -39.568567,0 C 11.132976,314.12034 10e-7,325.33192 10e-7,339.17863 l 0,277.03175 c 0,13.86012 11.144483,25.16187 25.014192,25.16187 l 39.568567,0 c 13.871629,0 25.083233,-11.30175 25.083233,-25.16187 l 0,-8.47104 142.691937,31.03041 0,135.78776 c 0,27.96958 18.57605,69.61704 69.71103,69.61704 l 277.06434,0 c 28.06162,0 69.70721,-18.48396 69.70721,-69.61704 l 0,-45.25492 320.71212,69.76475 c 1.80292,0.32083 3.665,0.53708 5.39867,0.53708 5.62879,0 11.11954,-1.94083 15.71083,-5.54825 C 996.54026,789.31709 1000,782.04471 1000,774.55751 l 0,-593.7126 c 0,-7.60418 -3.47124,-14.71547 -9.33787,-19.52154 l 0,0 z"
-     id="Fill-1"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024pt" height="1024pt" viewBox="0 0 1024 1024" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 602.746094 793.136719 C 602.746094 797.363281 602.746094 802.707031 593.03125 802.835938 L 309.320312 802.835938 C 305.109375 802.835938 299.800781 802.835938 299.507812 793.136719 L 299.507812 667.554688 L 602.734375 733.375 L 602.734375 793.136719 Z M 1014.4375 165.195312 C 1008.40625 160.34375 1000.492188 158.484375 992.820312 160.179688 L 91.816406 355.992188 L 91.816406 347.320312 C 91.816406 333.140625 80.335938 321.660156 66.132812 321.660156 L 25.613281 321.660156 C 11.398438 321.660156 0 333.140625 0 347.320312 L 0 631 C 0 645.191406 11.410156 656.765625 25.613281 656.765625 L 66.132812 656.765625 C 80.335938 656.765625 91.816406 645.191406 91.816406 631 L 91.816406 622.324219 L 237.933594 654.101562 L 237.933594 793.148438 C 237.933594 821.789062 256.957031 864.433594 309.320312 864.433594 L 593.03125 864.433594 C 621.769531 864.433594 664.414062 845.507812 664.414062 793.148438 L 664.414062 746.804688 L 992.820312 818.246094 C 994.667969 818.574219 996.574219 818.796875 998.351562 818.796875 C 1004.113281 818.796875 1009.738281 816.808594 1014.4375 813.113281 C 1020.457031 808.261719 1024 800.8125 1024 793.148438 L 1024 185.183594 C 1024 177.398438 1020.445312 170.117188 1014.4375 165.195312 Z M 1014.4375 165.195312 "/>
+</g>
 </svg>

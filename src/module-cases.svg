@@ -1,61 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="module-cases.svg">
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>acc_cases</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="0.513"
-     inkscape:cx="500"
-     inkscape:cy="500"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title4">acc_cases</title>
-  <desc
-     id="desc6">Created with Sketch.</desc>
-  <defs
-     id="defs8" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:66.66666412;stroke-opacity:1"
-     d="m 941.84235,261.70198 -514.72244,0 -100.70004,-91.54628 c -5.48093,-4.98555 -12.62987,-7.74436 -20.03729,-7.74436 l -238.297183,0 c -16.452808,0 -34.752057,8.36985 -34.752057,24.82266 l 0,615.60262 c 0,16.44111 18.299249,34.75204 34.752057,34.75204 l 873.756953,0 c 16.4528,0 24.82431,-18.31093 24.82431,-34.75204 l 0,-516.31199 c 0,-16.4528 -8.37151,-24.82265 -24.82431,-24.82265 l 0,0 z"
-     id="path12"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024pt" height="1024pt" viewBox="0 0 1024 1024" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:66.666664;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 941.841125 261.703491 L 427.120209 261.703491 L 326.41983 170.154572 C 320.93811 165.168762 313.789368 162.410736 306.381226 162.410736 L 68.084717 162.410736 C 51.631927 162.410736 33.332825 170.780182 33.332825 187.232971 L 33.332825 802.837372 C 33.332825 819.278717 51.631927 837.589264 68.084717 837.589264 L 941.841125 837.589264 C 958.293915 837.589264 966.667175 819.278717 966.667175 802.837372 L 966.667175 286.525726 C 966.667175 270.072937 958.293915 261.703491 941.841125 261.703491 Z M 941.841125 261.703491 " transform="matrix(1.024,0,0,1.024,0,0)"/>
+</g>
 </svg>
