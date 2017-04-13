@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon_Invaders_32.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>invaders_dark</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.26198609"
+     inkscape:cx="-286.93845"
+     inkscape:cy="476.63669"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">invaders_dark</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Page-1"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(0,994)">
+    <g
+       id="invaders_dark"
+       style="fill:#778591">
+      <path
+         d="m 613.40285,-786.16288 -270.37715,0 0,67.57145 -67.62367,0 0,67.61061 -67.57144,0 0,67.57145 -67.61061,0 0,67.62366 -67.571445,0 0,67.57145 67.571445,0 0,67.6106 67.61061,0 0,67.57144 67.57144,0 0,-67.57144 135.19512,0 0,67.57144 67.61061,0 0,-67.57144 67.57143,0 0,67.57144 67.62366,0 0,-67.57144 135.18204,0 0,67.57144 67.57148,0 0,-67.57144 67.57144,0 0,-67.6106 67.62366,0 0,-67.57145 -67.62366,0 0,-67.62366 -67.57144,0 0,-67.57145 -67.57148,0 0,-67.61061 -67.6106,0 0,-67.57145 -67.57144,0 z m 0,202.75351 67.57144,0 0,67.62366 -67.57144,0 0,-67.62366 z m -270.37715,0 67.57145,0 0,67.62366 -67.57145,0 0,-67.62366 z m 473.13067,338.00081 67.57144,0 0,-67.62366 -67.57144,0 0,67.62366 z m -202.75352,0 67.57144,0 0,-67.62366 -67.57144,0 0,67.62366 z m -270.37715,-67.62366 0,67.62366 -67.62367,0 0,67.57144 67.62367,0 0,-67.57144 67.57145,0 0,-67.62366 -67.57145,0 z m -202.80572,67.62366 67.61061,0 0,-67.62366 -67.61061,0 0,67.62366 z m 743.50783,67.57144 67.62366,0 0,-67.57144 -67.62366,0 0,67.57144 z m -202.75352,0 67.6106,0 0,-67.57144 -67.6106,0 0,67.57144 z m -608.325755,0 67.571445,0 0,-67.57144 -67.571445,0 0,67.57144 z"
+         id="path12"
+         inkscape:connector-curvature="0"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>
