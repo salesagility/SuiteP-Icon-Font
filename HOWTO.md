@@ -20,8 +20,9 @@ Use inkscape
 
 Use svgo to clean / compress the svgs:
 
+<pre>
 svgo -f /tmp/suitepicon/ -o src
- 
+</pre>
 
 # Build Icon set
 
