@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024pt"
+   height="1024pt"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg818"
+   sodipodi:docname="module-calendar.svg">
+  <metadata
+     id="metadata824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs822" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview820"
+     showgrid="false" />
+  <g
+     id="surface1">
+    <path
+       style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;"
+       d="M 743.136719 12.292969 L 673.617188 12.292969 L 673.617188 135.679688 L 350.148438 135.679688 L 350.148438 12.292969 L 280.632812 12.292969 L 280.632812 135.679688 L 15.882812 135.679688 L 15.882812 1012.292969 L 1007.882812 1012.292969 L 1007.882812 135.679688 L 743.136719 135.679688 Z M 85.402344 942.882812 L 85.402344 453.046875 L 938.367188 453.046875 L 938.367188 942.882812 Z M 938.367188 205.09375 L 938.367188 382.371094 L 85.402344 382.371094 L 85.402344 205.09375 L 280.695312 205.09375 L 280.695312 288.925781 L 350.214844 288.925781 L 350.214844 205.09375 L 672.5 205.09375 L 672.5 288.925781 L 742 288.925781 L 742 205.09375 Z M 938.367188 205.09375 "
+       id="path815" />
+  </g>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:29.99999911;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:182.30856323;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path826"
+     cx="514.26453"
+     cy="702.58459"
+     r="208.72331" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 419.62557,590.08927 99.99589,132.13742 96.4246,-133.92306 v 0"
+     id="path828"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+</svg>

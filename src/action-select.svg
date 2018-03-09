@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
-   height="1024"
+   width="1024pt"
+   height="1024pt"
    id="svg2984"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="id-ff-select.svg">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="action-select.svg">
   <defs
      id="defs2986" />
   <sodipodi:namedview
@@ -25,17 +25,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.36274579"
-     inkscape:cx="262.90206"
+     inkscape:cx="-171.2863"
      inkscape:cy="522.71994"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="pt" />
   <metadata
      id="metadata2989">
     <rdf:RDF>
@@ -52,11 +53,11 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,992)">
+     transform="translate(0,1333.3333)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 89.121094 12 L 157.56445 886.29688 L 489.74023 611.76953 L 820.51172 1012 L 926.41602 924.47461 L 595.64453 524.24414 L 934.87891 243.88281 L 89.121094 12 z "
-       transform="translate(0,-992)"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08677971"
+       d="m 223.09043,-1198.0064 74.38284,950.16812 361.0019,-298.35076 359.47573,434.96237 115.0946,-95.12084 -359.4757,-434.96234 368.6731,-304.69102 z"
        id="rect2992" />
   </g>
 </svg>

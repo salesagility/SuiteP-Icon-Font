@@ -12,8 +12,8 @@
    viewBox="0 0 1024 1024"
    version="1.1"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="edit.svg">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="action-edit.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -35,13 +35,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      id="namedview17"
      showgrid="false"
      inkscape:zoom="0.51300289"
-     inkscape:cx="512"
-     inkscape:cy="512"
+     inkscape:cx="204.98419"
+     inkscape:cy="508.15357"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@
      id="defs8" />
   <path
      id="Fill-3"
-     transform="matrix(55.39837,0,0,55.39837,-487.92131,-4.885653)"
-     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
-     d="M 24.228928,6.4087536 20.968348,3.1514203 10.108406,14.01258 9.0241159,18.355826 13.367362,17.270319 Z m 2.171826,-5.4291594 c -0.900464,-0.9004638 -2.358899,-0.8988406 -3.259363,0 l -1.085507,1.085913 3.258957,3.2589566 1.085913,-1.085913 c 0.898434,-0.9000579 0.900058,-2.360116 0,-3.2589566 l 0,0 z" />
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:43.73562241"
+     d="M 782.25447,384.22258 639.65098,241.76109 164.68467,716.78065 117.26257,906.73522 307.21713,859.25989 Z m 94.98616,-237.44765 c -39.38236,-39.38235 -103.16792,-39.31136 -142.55027,0 l -47.47532,47.49308 142.53251,142.53249 47.49308,-47.49308 c 39.29356,-39.36459 39.36459,-103.22114 0,-142.53249 z"
+     inkscape:connector-curvature="0" />
 </svg>
